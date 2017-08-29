@@ -4,7 +4,7 @@ This is a Syncthing-iOS Port with Golang Libary for iOS. I have compiled it with
 
 1. Please install at first Golang https://golang.org/
 2. Instal Xcode with the latest Version
-3. Get a clone from Golang Solurce https://github.com/golang/go
+3. Get a clone from Golang Source https://github.com/golang/go
 4. Edit the file /misc/iso/clangwrap.sh 
 
 ```
